@@ -1,18 +1,18 @@
 {
-  "name": "litecore-message",
-  "main": "./litecore-message.min.js",
+  "name": "berycore-message",
+  "main": "./berycore-message.min.js",
   "version": "1.0.2",
-  "homepage": "https://github.com/litecoin-project/litecore-message",
+  "homepage": "https://github.com/berycoin-project/berycore-message",
   "authors": [
     "BitPay"
   ],
-  "description": "Litecoin Message Verification and Signing for Litecore",
+  "description": "Berycoin Message Verification and Signing for Berycore",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "litecoin",
-    "litecore",
+    "berycoin",
+    "berycore",
     "ltc",
     "satoshi",
     "message",

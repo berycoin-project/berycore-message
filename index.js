@@ -1,4 +1,4 @@
-var litecore = require('litecore-lib');
-litecore.Message = require('./lib/message');
+var berycore = require('berycore-lib');
+berycore.Message = require('./lib/message');
 
-module.exports = litecore.Message;
+module.exports = berycore.Message;

@@ -1,8 +1,8 @@
 'use strict';
 
 var gulp = require('gulp');
-var litecoreTasks = require('litecore-build');
+var berycoreTasks = require('berycore-build');
 
-litecoreTasks('message');
+berycoreTasks('message');
 
 gulp.task('default', ['lint', 'coverage']);
