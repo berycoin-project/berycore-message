@@ -1,6 +1,6 @@
 {
   "name": "berycore-message",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "description": "Berycoin Messages for Berycore",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
@@ -23,7 +23,7 @@
     "url": "https://github.com/berycoin-project/berycore-message.git"
   },
   "dependencies": {
-    "berycore-lib": "^0.13.22"
+    "berycore-lib": "^0.15.38"
   },
   "devDependencies": {
     "berycore-build": "berycoin-project/berycore-build",
