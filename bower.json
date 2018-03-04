@@ -1,7 +1,7 @@
 {
   "name": "berycore-message",
   "main": "./berycore-message.min.js",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "homepage": "https://github.com/berycoin-project/berycore-message",
   "authors": [
     "BitPay"
